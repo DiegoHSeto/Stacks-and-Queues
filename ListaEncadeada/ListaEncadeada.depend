@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1541090348 source:c:\users\win_7_ultimate\desktop\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"pilha.h"
+
+1541091399 c:\users\win_7_ultimate\desktop\listaencadeada\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1541090247 source:c:\users\win_7_ultimate\desktop\listaencadeada\lista.c
+	"lista.h"
+	<stdarg.h>
+
+1540935949 source:c:\users\win_7_ultimate\desktop\listaencadeada\pilha.c
+	"pilha.h"
+
+1540871513 c:\users\win_7_ultimate\desktop\listaencadeada\pilha.h
+	<stdio.h>
+	<stdlib.h>
+
